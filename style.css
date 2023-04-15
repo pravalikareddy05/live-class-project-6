@@ -1,0 +1,125 @@
+body{
+    background-color: #bbf7d0;
+}
+#navbarMonstera{
+    margin-top: 4rem;
+    margin-left: 6rem;
+    
+}
+#navFirst img{
+    height: 80px;
+    width: 80px;
+}
+#navMid{
+    display: flex;
+    margin-left: 14rem;
+    margin-top: -7rem;
+    font-size:x-large;
+}
+#navMid h4{
+    padding: 1.5rem;
+    
+}
+#navEnd {
+    display: flex;
+    margin-left: 55rem;
+    margin-top: -6.5rem;
+}
+#navEnd img{
+    padding: 1.5rem;
+
+}
+
+
+
+#monstera{
+    font-size: 6.5rem;
+    margin-left: 3.2rem;
+    
+}
+.first{
+    margin-left: 3.5rem;
+    margin-top: -4.5rem;
+    font-size:x-large
+}
+.second{
+    margin-left: 3.5rem;
+    margin-top: -1rem;
+    font-size:x-large
+
+}
+
+
+#midWholePart121 h1{
+    background-color: #15803d;
+    height: 30px;
+    width: 230px;
+    border-radius: 2rem;
+    text-align: center;
+    padding: 1rem;
+    color: white;
+    margin-top: 3rem;
+    margin-left: 6rem;
+    
+}
+#midWholePart122 img{
+    margin-left: 20.5rem;
+    margin-top: -15rem;
+    
+}
+#midWholePart13{
+    display: flex;
+    margin-left: 7rem;
+}
+#feeding{
+   height: 65px;
+   width: 65px;
+}
+#midWholePart13Parts {
+    margin-left: 5rem;
+    
+
+}
+#feeding{
+    margin-top: 3rem;
+    mix-blend-mode: multiply;
+}
+#light{
+    margin-top: 3rem;
+
+}
+#care{
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+.one h4{
+    margin-left: 5rem;
+    margin-top: -4rem;
+}
+.two h4{
+    margin-left: 5rem;
+    margin-top: -4rem;
+}
+.three h4{
+    margin-left: 5.5rem;
+    margin-top: -4rem;
+}
+.text{
+    margin-left: 5rem;
+    margin-top: -1rem;
+    font-size: 0.6rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#light{
+    margin-left: 2rem;
+}
+#care{
+    margin-left: 2rem;
+}
+#imgMain{
+    margin-top: -75rem;
+    margin-left: 50rem;
+    height: 540px;
+    width: 600px;
+    
+}

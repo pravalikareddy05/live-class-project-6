@@ -1,0 +1,52 @@
+body{
+    background-color: #d8b4fe;
+    margin-left: 15rem;
+}
+
+
+h1{
+    margin-left: 18rem;
+}
+.shiznay{
+    background-color: white;
+    width: 800px;
+    height: 800px;
+    padding-left: 5rem;
+    padding-top: 2rem;
+    border-radius: 0.5rem;
+    border-color:black
+    
+}
+input[type=text] {
+    border-radius: 0.5rem;
+    padding: 0.4rem;
+    border-color: #f0abfc;
+    cursor: pointer;
+    
+}
+#selecting{
+    padding: 5px;
+    border-radius: 0.5rem;
+    border-color:#d946ef;
+    cursor: pointer;
+
+}
+.choosing-thing{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.box{
+    margin-bottom: 2rem;
+    
+}
+#box-one{
+    padding: 1rem;
+}
+#box-two{
+    text-align: center;
+    height: 30px;
+    width: 90px;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    border-color: #f0abfc;
+}
